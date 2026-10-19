@@ -1,0 +1,14 @@
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\obj\Debug\net8.0\SpreadSheetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\obj\Debug\net8.0\SpreadSheetApp.AssemblyInfoInputs.cache
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\obj\Debug\net8.0\SpreadSheetApp.AssemblyInfo.cs
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\obj\Debug\net8.0\SpreadSheetApp.csproj.CoreCompileInputs.cache
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\bin\Debug\net8.0\SpreadSheetApp.exe
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\bin\Debug\net8.0\SpreadSheetApp.deps.json
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\bin\Debug\net8.0\SpreadSheetApp.runtimeconfig.json
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\bin\Debug\net8.0\SpreadSheetApp.dll
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\bin\Debug\net8.0\SpreadSheetApp.pdb
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\obj\Debug\net8.0\SpreadSheetApp.dll
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\obj\Debug\net8.0\refint\SpreadSheetApp.dll
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\obj\Debug\net8.0\SpreadSheetApp.pdb
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\obj\Debug\net8.0\SpreadSheetApp.genruntimeconfig.cache
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetApp\obj\Debug\net8.0\ref\SpreadSheetApp.dll
