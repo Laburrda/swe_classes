@@ -1,0 +1,15 @@
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\obj\Debug\net6.0\BookObserverPattern.csproj.AssemblyReference.cache
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\obj\Debug\net6.0\BookObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\obj\Debug\net6.0\BookObserverPattern.AssemblyInfoInputs.cache
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\obj\Debug\net6.0\BookObserverPattern.AssemblyInfo.cs
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\obj\Debug\net6.0\BookObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\bin\Debug\net6.0\BookObserverPattern.exe
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\bin\Debug\net6.0\BookObserverPattern.deps.json
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\bin\Debug\net6.0\BookObserverPattern.runtimeconfig.json
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\bin\Debug\net6.0\BookObserverPattern.dll
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\bin\Debug\net6.0\BookObserverPattern.pdb
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\obj\Debug\net6.0\BookObserverPattern.dll
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\obj\Debug\net6.0\refint\BookObserverPattern.dll
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\obj\Debug\net6.0\BookObserverPattern.pdb
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\obj\Debug\net6.0\BookObserverPattern.genruntimeconfig.cache
+C:\Users\jedrusik\source\repos\BookObserverPattern\BookObserverPattern\obj\Debug\net6.0\ref\BookObserverPattern.dll
