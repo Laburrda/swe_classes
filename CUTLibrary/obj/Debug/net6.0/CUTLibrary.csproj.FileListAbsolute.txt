@@ -1,0 +1,45 @@
+C:\DyskD\TMP\UnitTestLab_Rozwiazane_NET60\CUTLibrary\bin\Debug\net6.0\CUTLibrary.deps.json
+C:\DyskD\TMP\UnitTestLab_Rozwiazane_NET60\CUTLibrary\bin\Debug\net6.0\CUTLibrary.dll
+C:\DyskD\TMP\UnitTestLab_Rozwiazane_NET60\CUTLibrary\bin\Debug\net6.0\ref\CUTLibrary.dll
+C:\DyskD\TMP\UnitTestLab_Rozwiazane_NET60\CUTLibrary\bin\Debug\net6.0\CUTLibrary.pdb
+C:\DyskD\TMP\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\DyskD\TMP\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.AssemblyInfoInputs.cache
+C:\DyskD\TMP\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.AssemblyInfo.cs
+C:\DyskD\TMP\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.csproj.CoreCompileInputs.cache
+C:\DyskD\TMP\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.dll
+C:\DyskD\TMP\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\ref\CUTLibrary.dll
+C:\DyskD\TMP\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.pdb
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\bin\Debug\net6.0\CUTLibrary.deps.json
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\bin\Debug\net6.0\CUTLibrary.dll
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\bin\Debug\net6.0\ref\CUTLibrary.dll
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\bin\Debug\net6.0\CUTLibrary.pdb
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.csproj.AssemblyReference.cache
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.AssemblyInfoInputs.cache
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.AssemblyInfo.cs
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.csproj.CoreCompileInputs.cache
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.dll
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\ref\CUTLibrary.dll
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Rozwiazane_NET60\CUTLibrary\obj\Debug\net6.0\CUTLibrary.pdb
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Student_NET60_Ver2\CUTLibrary\bin\Debug\net6.0\CUTLibrary.deps.json
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Student_NET60_Ver2\CUTLibrary\bin\Debug\net6.0\CUTLibrary.dll
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Student_NET60_Ver2\CUTLibrary\bin\Debug\net6.0\ref\CUTLibrary.dll
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Student_NET60_Ver2\CUTLibrary\bin\Debug\net6.0\CUTLibrary.pdb
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Student_NET60_Ver2\CUTLibrary\obj\Debug\net6.0\CUTLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Student_NET60_Ver2\CUTLibrary\obj\Debug\net6.0\CUTLibrary.AssemblyInfoInputs.cache
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Student_NET60_Ver2\CUTLibrary\obj\Debug\net6.0\CUTLibrary.AssemblyInfo.cs
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Student_NET60_Ver2\CUTLibrary\obj\Debug\net6.0\CUTLibrary.csproj.CoreCompileInputs.cache
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Student_NET60_Ver2\CUTLibrary\obj\Debug\net6.0\CUTLibrary.dll
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Student_NET60_Ver2\CUTLibrary\obj\Debug\net6.0\ref\CUTLibrary.dll
+C:\OneDrive\Personal\OneDrive\Student\Inzynieria oprogramowania\Laboratoria\L3-4\UnitTestLab_Student_NET60_Ver2\CUTLibrary\obj\Debug\net6.0\CUTLibrary.pdb
+C:\Users\jakub\OneDrive\Pulpit\testy jednostkowe\CUTLibrary\bin\Debug\net6.0\CUTLibrary.deps.json
+C:\Users\jakub\OneDrive\Pulpit\testy jednostkowe\CUTLibrary\bin\Debug\net6.0\CUTLibrary.dll
+C:\Users\jakub\OneDrive\Pulpit\testy jednostkowe\CUTLibrary\bin\Debug\net6.0\CUTLibrary.pdb
+C:\Users\jakub\OneDrive\Pulpit\testy jednostkowe\CUTLibrary\obj\Debug\net6.0\CUTLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\OneDrive\Pulpit\testy jednostkowe\CUTLibrary\obj\Debug\net6.0\CUTLibrary.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive\Pulpit\testy jednostkowe\CUTLibrary\obj\Debug\net6.0\CUTLibrary.AssemblyInfo.cs
+C:\Users\jakub\OneDrive\Pulpit\testy jednostkowe\CUTLibrary\obj\Debug\net6.0\CUTLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive\Pulpit\testy jednostkowe\CUTLibrary\obj\Debug\net6.0\CUTLibrary.dll
+C:\Users\jakub\OneDrive\Pulpit\testy jednostkowe\CUTLibrary\obj\Debug\net6.0\refint\CUTLibrary.dll
+C:\Users\jakub\OneDrive\Pulpit\testy jednostkowe\CUTLibrary\obj\Debug\net6.0\CUTLibrary.pdb
+C:\Users\jakub\OneDrive\Pulpit\testy jednostkowe\CUTLibrary\obj\Debug\net6.0\ref\CUTLibrary.dll
