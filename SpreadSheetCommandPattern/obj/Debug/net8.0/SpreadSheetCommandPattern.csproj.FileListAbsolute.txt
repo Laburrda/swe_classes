@@ -1,0 +1,14 @@
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\obj\Debug\net8.0\SpreadSheetCommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\obj\Debug\net8.0\SpreadSheetCommandPattern.AssemblyInfoInputs.cache
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\obj\Debug\net8.0\SpreadSheetCommandPattern.AssemblyInfo.cs
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\obj\Debug\net8.0\SpreadSheetCommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\bin\Debug\net8.0\SpreadSheetCommandPattern.exe
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\bin\Debug\net8.0\SpreadSheetCommandPattern.deps.json
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\bin\Debug\net8.0\SpreadSheetCommandPattern.runtimeconfig.json
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\bin\Debug\net8.0\SpreadSheetCommandPattern.dll
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\bin\Debug\net8.0\SpreadSheetCommandPattern.pdb
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\obj\Debug\net8.0\SpreadSheetCommandPattern.dll
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\obj\Debug\net8.0\refint\SpreadSheetCommandPattern.dll
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\obj\Debug\net8.0\SpreadSheetCommandPattern.pdb
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\obj\Debug\net8.0\SpreadSheetCommandPattern.genruntimeconfig.cache
+C:\Users\macie\Desktop\AGH_studia\Semestr 1\Inzynieria oprogramowania\SpreadSheetCommandPattern\obj\Debug\net8.0\ref\SpreadSheetCommandPattern.dll
